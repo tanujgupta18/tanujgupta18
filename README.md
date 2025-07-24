@@ -42,7 +42,7 @@
   → A Chrome extension for recruiters to export applicant data (350+ users)
 
 - [📝 HubSpot Form Submissions Exporter](https://chromewebstore.google.com/detail/hubspot-form-submissions/pjiocddnjdodoecdgdmpfhighlbanfjp)  
-  → Export form submissions to PDF with filters & bulk mode (80+ users)
+  → A Chrome Extension to export form submissions to PDF with filters & bulk mode (80+ users)
 
 ### 📈 GitHub Stats
 
