@@ -35,20 +35,3 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
-
-### Featured Projects
-
-- [LinkedIn Job Data Exporter](https://chromewebstore.google.com/detail/linkedin-jobs-data-downlo/lhbfmcaikiojaojldlkkmfdieaakapgd)  
-  → A Chrome extension for recruiters to export applicant data (350+ users)
-
-- [HubSpot Form Submissions Exporter](https://chromewebstore.google.com/detail/hubspot-form-submissions/pjiocddnjdodoecdgdmpfhighlbanfjp)  
-  → A Chrome Extension to export form submissions to PDF with filters & bulk mode (80+ users)
-
-### GitHub Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=tanujgupta18&show_icons=true&theme=dark" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujgupta18&layout=compact&theme=dark" /></td>
-  </tr>
-</table>
